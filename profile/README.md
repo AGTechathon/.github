@@ -1,5 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="./AGTECHATHON.png" alt="AGTechathon Logo" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" width="700"/>
+</div>
 
+<br/>
+
+<h3 align="center"><strong>🚀 Powered by</strong></h3>
+
+<div align="center">
+  <img src="./Untitled (2).png" alt="Powered by Logo" style="max-width: 200%; height: auto; margin-top: 10px;" width="200"/>
+</div>
+
+---
+
+<p align="center">
+  <strong>AGTechathon 1.0</strong> is a collaborative tech fest to ignite innovation, creativity, and impact through code and community!
+</p>
 <!--
 
 **Here are some ideas to get you started:**
